@@ -1,0 +1,49 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Danial",
+  "MiddleName": "",
+  "LastName": "Asaria",
+  "devDesc": "| Engineer | Investor | Student | Athlete | Optimist ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fas fa-envelope",
+      "url": "mailto:<asaria.danial@gmail.com",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-github",
+      "url": "https://github.com/danialasaria",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/danial-asaria/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-quora",
+      "url": "https://www.quora.com/profile/Danial-Asaria",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": false,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "",
+  "instaQuerry": "/?__a=1",
+
+
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "danialasaria",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 6,
+  "showNavigationbar": true,
+  "showBlog": false
+}
